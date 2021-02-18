@@ -1,9 +1,0 @@
-service\Salute.class
-service\Police.class
-annotations\ServiceMan.class
-annotations\Web.class
-annotations\ServiceMan$ServiceType.class
-service\User.class
-service\Soldier.class
-beans\QualifierWithValueBean.class
-model\User.class
