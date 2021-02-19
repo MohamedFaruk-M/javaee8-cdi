@@ -13,7 +13,7 @@ public class Police implements Salute {
     public String greetings(String name) {
         return new StringBuilder("Welcome ")
                 .append(name)
-                .append("! \\nHave a Good Day sir!").toString();
+                .append("! Have a Good Day sir!").toString();
     }
 
 }
