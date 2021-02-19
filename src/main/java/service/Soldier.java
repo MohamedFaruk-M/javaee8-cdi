@@ -13,7 +13,7 @@ public class Soldier implements Salute {
     public String greetings(String name) {
         return new StringBuilder("Welcome ")
                 .append(name)
-                .append("! \\nHave a Good Day major!").toString();
+                .append("! Have a Good Day major!").toString();
     }
 
 }
